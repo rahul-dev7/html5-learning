@@ -110,5 +110,12 @@
             <div>Test</div>
         </main>
 - ### mark
-     <p>This is some <mark>highlighted</mark> text.</p>
+      <p>This is some <mark>highlighted</mark> text.</p>
       <p>Here are <mark>some more highlighted</mark> text.</p>
+- ### menuitem
+- ### output
+      <form oninput="result.value=parseInt(a.value)+parseInt(b.value)">
+          <input type="range" id="a" value="50"> +
+          <input type="number" id="b" value="100"> =
+          <output name="result" for="a b"></output>
+      </form>
