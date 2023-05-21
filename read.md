@@ -83,3 +83,6 @@
           <button type="button">Yes</button>
           <button type="button">No</button>
       </dialog>
+      
+- ### embed
+      <embed src="blur.swf" width="400px" height="200px">
