@@ -62,7 +62,7 @@
           <li><data value="206">Roasted Coffee Beans</data></li>
       </ul>
       
-  - ### datalist
+- ### datalist
        <p>Enter your favorite browser name:</p>
        <input type="text" list="browsers">
        <datalist id="browsers">
