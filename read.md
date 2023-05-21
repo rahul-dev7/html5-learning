@@ -92,3 +92,10 @@
           <img src="discovery.jpg" alt="Space Shuttle">
           <figcaption>NASA - Space Shuttle Discovery</figcaption>
       </figure>
+- ### header
+      <header>
+          <h1>Tutorial Republic</h1>
+          <nav>
+              <p><a href="#">Home</a> | <a href="#">About</a> | <a href="#">Contact</a></p>
+          </nav>
+      </header>
