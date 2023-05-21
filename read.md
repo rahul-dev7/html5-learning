@@ -77,7 +77,7 @@
           <summary>What is HTML?</summary>
           <p>HTML is a markup language for describing the structure of web pages.</p>
       </details>
-  - ### dialog 
+ - ### dialog 
       <dialog open>
           <p>Are you sure you want to remove this item?</p>
           <button type="button">Yes</button>
