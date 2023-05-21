@@ -47,3 +47,6 @@
   <audio controls="controls" src="birds.mp3">
       Your browser does not support the HTML5 Audio element.
   </audio>
+  
+- ### bdi
+      <p dir="ltr">This arabic word <bdi>ARABIC_PLACEHOLDER</bdi> is automatically displayed right-to-left.</p>
