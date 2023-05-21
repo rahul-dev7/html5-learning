@@ -21,4 +21,4 @@
 
 - ### [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
 
-- ### [markup-validatior checker](https://validator.w3.org/)
+- ### [Markup validatior checker](https://validator.w3.org/)
