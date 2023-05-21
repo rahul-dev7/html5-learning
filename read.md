@@ -1,4 +1,4 @@
-Description list
+- Description list
 <dl>
   <dt>soliloquy</dt>
   <dd>
@@ -18,3 +18,5 @@ Description list
     additional background information.
   </dd>
 </dl>
+
+Document and website structure
