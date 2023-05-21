@@ -1,4 +1,4 @@
-- Description list
+- <h2>Description list</h2>
 <dl>
   <dt>soliloquy</dt>
   <dd>
@@ -19,4 +19,4 @@
   </dd>
 </dl>
 
-Document and website structure
+- Document and website structure
