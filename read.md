@@ -119,3 +119,12 @@
           <input type="number" id="b" value="100"> =
           <output name="result" for="a b"></output>
       </form>
+- - ### picture
+	<picture>
+		<source media="(min-width: 1024px)" srcset="images/banner-large.png">
+		<source media="(max-width: 768px)" srcset="images/banner-small.png">
+		<img src="images/banner.png" alt="Banner">
+	</picture>
+	
+- ### progress
+	<progress id="bar" value="0" max="100"><span>0</span>%</progress>
