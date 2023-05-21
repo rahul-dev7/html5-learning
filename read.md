@@ -23,3 +23,10 @@
 
 - ### [Markup validatior checker](https://validator.w3.org/)
 - online shareable editor such as CodePen, jsFiddle, or Glitch.
+
+- ### Figure
+<figure>
+    <img src="/media/cc0-images/elephant-660-480.jpg"
+         alt="Elephant at sunset">
+    <figcaption>An elephant at sunset</figcaption>
+</figure>
