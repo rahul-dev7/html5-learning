@@ -61,3 +61,15 @@
           <li><data value="205">Tomato Ketchup</data></li>
           <li><data value="206">Roasted Coffee Beans</data></li>
       </ul>
+      
+  - ### datalist
+  
+       <p>Enter your favorite browser name:</p>
+       <input type="text" list="browsers">
+       <datalist id="browsers">
+          <option value="Firefox">
+          <option value="Chrome">    
+          <option value="Internet Explorer">
+          <option value="Opera">
+          <option value="Safari">
+       </datalist>
