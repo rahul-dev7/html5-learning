@@ -127,3 +127,40 @@
 		</picture>
 - ### progress
 	<progress id="bar" value="0" max="100"><span>0</span>%</progress>
+- ### source
+	<video controls="controls">
+	    <source src="shuttle.mp4" type="video/mp4">
+	    <source src="shuttle.ogv" type="video/ogg">
+	    Your browser does not support the HTML5 Video element.
+	</video>
+- ### summary
+	<details>
+	    <summary>What is HTML?</summary>
+	    <p>HTML is a markup language for describing the structure of web pages.</p>
+	</details>
+- ### svg
+	<svg width="500" height="350">
+	    <rect x="100" y="100" width="300" height="150" fill="yellow" stroke="black" stroke-width="5" />
+	</svg>
+
+- ### template
+	<table id="studentsTable">
+	    <thead>
+		<tr>
+		    <th>Roll No.</th>
+		    <th>Student Name</th>
+		</tr>
+	    <thead>
+	    <tbody>
+		<!-- Content will be inserted here using template dynamically -->
+	    <tbody>
+	</table>
+
+	<template id="studentRow">
+	    <tr>
+		<td></td>
+		<td></td>
+	    </tr>
+	</template>
+- ### time
+   <p>The concert took place on <time datetime="2016-12-31 12:00">31 Dec</time>.</p>
