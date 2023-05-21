@@ -52,4 +52,4 @@
       <p dir="ltr">This arabic word <bdi>ARABIC_PLACEHOLDER</bdi> is automatically displayed right-to-left.</p>
       
 - ### canvas
-  <canvas id="myCanvas" width="300" height="200"></canvas>
+      <canvas id="myCanvas" width="300" height="200"></canvas>
