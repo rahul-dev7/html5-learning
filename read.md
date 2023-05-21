@@ -30,3 +30,9 @@
          alt="Elephant at sunset">
     <figcaption>An elephant at sunset</figcaption>
 </figure>
+
+- ### Article
+<article>
+    <h1>Introduction to HTML</h1>
+    <p>HTML is a markup language that is used for creating web pages.</p>
+</article>
