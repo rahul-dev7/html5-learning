@@ -99,8 +99,13 @@
               <p><a href="#">Home</a> | <a href="#">About</a> | <a href="#">Contact</a></p>
           </nav>
       </header>
- - ### hgroup
+- ### hgroup
        <hgroup>
           <h1>This is a main heading</h1>
           <h2>This is sub-heading</h2>
        </hgroup>
+       
+ - ### main
+        <main>
+            <div>Test</div>
+        </main>
