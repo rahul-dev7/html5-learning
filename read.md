@@ -53,3 +53,11 @@
       
 - ### canvas
       <canvas id="myCanvas" width="300" height="200"></canvas>
+      
+- ### data
+      <p>New Products</p>
+      <ul>
+          <li><data value="204">Green Tea</data></li>
+          <li><data value="205">Tomato Ketchup</data></li>
+          <li><data value="206">Roasted Coffee Beans</data></li>
+      </ul>
