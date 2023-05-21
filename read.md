@@ -86,3 +86,9 @@
       
 - ### embed
       <embed src="blur.swf" width="400px" height="200px">
+      
+- ### figcaption
+      <figure>
+          <img src="discovery.jpg" alt="Space Shuttle">
+          <figcaption>NASA - Space Shuttle Discovery</figcaption>
+      </figure>
