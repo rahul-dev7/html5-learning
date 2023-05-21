@@ -72,3 +72,8 @@
           <option value="Opera">
           <option value="Safari">
        </datalist>
+ - ### details
+       <details>
+          <summary>What is HTML?</summary>
+          <p>HTML is a markup language for describing the structure of web pages.</p>
+      </details>
