@@ -63,7 +63,6 @@
       </ul>
       
   - ### datalist
-  
        <p>Enter your favorite browser name:</p>
        <input type="text" list="browsers">
        <datalist id="browsers">
